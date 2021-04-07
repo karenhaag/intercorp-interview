@@ -36,6 +36,13 @@ public class Client {
         this.birthday = clientEntity.getBirthdate();
     }
 
+    public Client(String name, String surname, int age, Date birthday){
+        this.name = name;
+        this.surname = surname;
+        this.age = age;
+        this.birthday = birthday;
+    }
+
     public String getName() {
         return name;
     }

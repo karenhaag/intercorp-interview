@@ -1,4 +1,4 @@
-package com.intercorp.interview.service;
+package com.intercorp.interview.services;
 
 import com.intercorp.interview.dto.Client;
 import com.intercorp.interview.dto.ClientKpi;

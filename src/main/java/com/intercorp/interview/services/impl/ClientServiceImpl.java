@@ -1,11 +1,11 @@
-package com.intercorp.interview.service.impl;
+package com.intercorp.interview.services.impl;
 
 import com.intercorp.interview.dto.Client;
 import com.intercorp.interview.dto.ClientKpi;
 import com.intercorp.interview.dto.ClientResponse;
 import com.intercorp.interview.model.ClientEntity;
 import com.intercorp.interview.repository.ClientRepository;
-import com.intercorp.interview.service.ClientService;
+import com.intercorp.interview.services.ClientService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

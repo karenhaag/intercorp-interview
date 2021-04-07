@@ -3,7 +3,7 @@ package com.intercorp.interview.controller;
 import com.intercorp.interview.dto.Client;
 import com.intercorp.interview.dto.ClientKpi;
 import com.intercorp.interview.dto.ClientResponse;
-import com.intercorp.interview.service.ClientService;
+import com.intercorp.interview.services.ClientService;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 import io.swagger.annotations.ApiResponse;
